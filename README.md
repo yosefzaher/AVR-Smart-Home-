@@ -1,7 +1,7 @@
 
 <h3 align="center">
   AVR Smart Home: Final Project
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+ 
 </h3>
 
 <p align="center">
@@ -85,7 +85,7 @@ In this project, we create a **Smart Home System** using AVR microcontroller and
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C Language" width="40" height="40"/> 
   </a>
   <a href="https://www.microchip.com/design-centers/8-bit/microcontrollers" target="_blank" rel="noreferrer"> 
-    <img src="[https://www.microchip.com/content/dam/mchp/microchip-logos/standard/microchip-logo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.microchip.com%2Fen-us%2Fproduct%2Fatmega32&psig=AOvVaw2XCW5bp3J-yAjyi3OHWX6i&ust=1729252027632000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCP4pfUlYkDFQAAAAAdAAAAABAE)" alt="ATmega32 Microcontroller" width="40" height="40"/> 
+    <img src="[https://www.microchip.com/content/dam/mchp/microchip-logos/standard/microchip-logo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.microchip.com%2Fen-us%2Fproduct%2Fatmega32&psig=AOvVaw2XCW5bp3J-yAjyi3OHWX6i&ust=1729252027632000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCP4pfUlYkDFQAAAAAdAAAAABAE)" alt="ATmega32 Microcontroller"](https://www.microchip.com/content/dam/mchp/mrt-dam/ic-images/pdip/40-lead-s2x/ATmega32-S2X-Regular.jpg) width="40" height="40"/> 
   </a> 
   <a href="https://www.microchip.com/mplab/mplab-x-ide" target="_blank" rel="noreferrer"> 
     <img src="https://mplabxpress.microchip.com/assets/images/mplabx-ide.png" alt="MPLABX IDE" width="40" height="40"/>
