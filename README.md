@@ -85,7 +85,7 @@ In this project, we create a **Smart Home System** using AVR microcontroller and
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C Language" width="40" height="40"/> 
   </a>
   <a href="https://www.microchip.com/design-centers/8-bit/microcontrollers" target="_blank" rel="noreferrer"> 
-    <img src="https://www.microchip.com/content/dam/mchp/microchip-logos/standard/microchip-logo.png" alt="ATmega32 Microcontroller" width="40" height="40"/> 
+    <img src="[https://www.microchip.com/content/dam/mchp/microchip-logos/standard/microchip-logo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.microchip.com%2Fen-us%2Fproduct%2Fatmega32&psig=AOvVaw2XCW5bp3J-yAjyi3OHWX6i&ust=1729252027632000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCP4pfUlYkDFQAAAAAdAAAAABAE)" alt="ATmega32 Microcontroller" width="40" height="40"/> 
   </a> 
   <a href="https://www.microchip.com/mplab/mplab-x-ide" target="_blank" rel="noreferrer"> 
     <img src="https://mplabxpress.microchip.com/assets/images/mplabx-ide.png" alt="MPLABX IDE" width="40" height="40"/>
@@ -95,10 +95,4 @@ In this project, we create a **Smart Home System** using AVR microcontroller and
 
 ---
 
-## 📊 **Project Stats**
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yosefzaher&show_icons=true&locale=en&layout=compact" alt="yosefzaher" />
-</p>
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yosefzaher&show_icons=true&locale=en&bg_color=151515&title_color=FB8C00&text_color=fff&icon_color=fff)](https://github.com/yosefzaher)
