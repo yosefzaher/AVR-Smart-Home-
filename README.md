@@ -1,12 +1,8 @@
 
 <h3 align="center">
   AVR Smart Home: Final Project
- 
 </h3>
 
-<p align="center">
-  <a href="https://github.com/yosefzaher/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=AVR%20Smart%20Home;Final%20Project&font=Fira%20Code&center=true&width=440&height=45&color=#FFD700&vCenter=true&size=22"></a>
-</p>
 
 ---
 
