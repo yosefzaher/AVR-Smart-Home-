@@ -1,8 +1,6 @@
-
 <h3 align="center">
   AVR Smart Home: Final Project
 </h3>
-
 
 ---
 
@@ -82,7 +80,11 @@ In this project, we create a **Smart Home System** using AVR microcontroller and
   </a>
 </p>
 
-
 ---
 
+## 👨‍💻 **Contributors**
 
+- Eng. Youssef Zaher
+- Eng. Zeinab Eltantawy
+- Eng. Youssef Farid
+- Eng. Ahmed Shaboury
